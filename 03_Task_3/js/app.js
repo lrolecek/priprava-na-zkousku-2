@@ -11,6 +11,7 @@ class Animal {
 
   sayHello() {
     console.log(`Ahoj. Jsem ${this.name} a je mi ${this.age} let.`)
+    //abc 
   }
 }
 
